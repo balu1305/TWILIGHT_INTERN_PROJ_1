@@ -75,8 +75,6 @@ TG 13 T 2617	SHAKEEL	AFEEZ	SAIDA RAO	890	Hyderabad	Nagpur	RUN
 TG 13 T 1986	MOHAMMED RIYAZ	ANAVEERAYYA MATAPATI (Swami)	RAJU	974	Hyderabad	Pune	RUN
 TG 13 T 1983	MOHD GHOUSE UDDIN	MD SIRAJUDDIN	RAJESH	976	Pune	Hyderabad	RUN
 Today's Date: 12/10/2024							
-![image](https://github.com/user-attachments/assets/27d28730-47bf-48ff-82d1-2656e1be9fcc)
-
 Daily Transitions:
 
 At the end of the day, the Today sheet data is logged into Date Wise Driver Details, and the next day’s schedule is updated with:
@@ -106,8 +104,7 @@ Date	Bus Number	Driver 1	Driver 2	Helper	Service ID	Source	Destination	STATUS
 1	TG 13 T 2614	LINGA SWAMI 	 IFRAN 	LANKESH	889	Nagpur 	Hyderabad	RUN
 1	TG 13 T 2617	SHAKEEL	AFEEZ	SAIDA RAO	890	Hyderabad	Nagpur	RUN
 1	TG 13 T 1986	MOHAMMED RIYAZ	ANAVEERAYYA MATAPATI (Swami)	RAJU	974	Hyderabad	Pune	RUN
-1	TG 13 T 1983	MOHD GHOUSE UDDIN	MD SIRAJUDDIN	RAJESH	976	Pune	Hyderabad	RUN
-Hault buses are not interchanged or logged into Date Wise Driver Details but remain in the Today sheet for tracking.
+1	TG 13 T 1983	MOHD GHOUSE UDDIN	MD SIRAJUDDIN	RAJESH	976	Pune	Hyderabad	RUNHault buses are not interchanged or logged into Date Wise Driver Details but remain in the Today sheet for tracking.
 3. Driver Payment Tracking
 Driver Payments Sheet:
 A matrix where:
@@ -160,6 +157,7 @@ TARUN KUMAR	708 | Pending
 TARUN NAIK	475 | Pending
 VENKATAIAH	1047 | Pending
 VENKATESH	709 | Pending
+
 Workflow Summary:
 
 Day 1: Initial Setup
